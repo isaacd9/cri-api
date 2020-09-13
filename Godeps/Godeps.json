@@ -35,10 +35,6 @@
 			"Rev": "v0.1.0"
 		},
 		{
-			"ImportPath": "github.com/gogo/protobuf",
-			"Rev": "v1.3.1"
-		},
-		{
 			"ImportPath": "github.com/golang/glog",
 			"Rev": "23def4e6c14b"
 		},
